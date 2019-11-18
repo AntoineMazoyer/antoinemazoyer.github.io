@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e88dc39d8adecf9c562b4f5138c8cd8a.js"
+  "/precache-manifest.2e4cbb25fb7bb80d2b3f5271402b2ba5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "appquestionnaire"});
